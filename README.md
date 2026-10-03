@@ -1,7 +1,3 @@
-<img width="390" height="2039" alt="D4Builds_HighFidelity_Prototype" src="https://github.com/user-attachments/assets/a57c0065-7fe4-4e0d-81ce-f1215678c13c" />
-<img width="390" height="2093" alt="D4Builds_LowFidelity_Prototype" src="https://github.com/user-attachments/assets/484e556e-b282-4010-8d46-9294307fc00f" />
-<img width="2200" height="2420" alt="D4Builds_VisualFoundation_Annotated" src="https://github.com/user-attachments/assets/a1c40125-df79-4f50-b058-8b304d57b165" />
-
 # D4Builds Mobile Interface Redesign
 
 A high-fidelity mobile interface redesign project focused on improving usability, clarity, visual hierarchy, and content flow for a Diablo 4 build-planning experience inspired by D4Builds.gg.
@@ -21,31 +17,29 @@ This project documents the progression from interface analysis to a refined mobi
 
 ### 1. Visual Foundation Analysis
 
-The original mobile interface was reviewed for recurring visual patterns including:
+The original mobile interface was reviewed for recurring visual patterns including near-black backgrounds, charcoal cards, white primary text, muted secondary text, red brand accents, orange/gold item accents, rounded controls, icon-driven gear presentation, and large section headings.
 
-- Near-black page backgrounds
-- Dark charcoal cards and panels
-- White primary text with muted gray secondary text
-- Red brand accents
-- Orange/gold item accents
-- Rounded controls and content cards
-- Icon-driven equipment presentation
-- Large section headings with smaller metadata text
-- Mobile advertisements that interrupt the content flow
+The analysis also identified mobile advertisements as a major interruption to content flow.
 
-![D4Builds visual foundation](images/d4builds-visual-foundation.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1c40125-df79-4f50-b058-8b304d57b165" alt="Annotated D4Builds visual foundation analysis" width="900">
+</p>
 
 ### 2. Prototype Iteration
 
-An early high-fidelity iteration established the redesigned information hierarchy, section structure, build-variant controls, equipment cards, rotation flow, Paragon visualization, skill-tree visualization, advertisement placement, and build-notes area.
+The earlier prototype established the redesigned information hierarchy and overall section structure. It introduced clearer build-variant controls, equipment cards, a step-based skill rotation, simplified Paragon and skill-tree visualizations, advertisement placement, and a dedicated build-notes area.
 
-![Prototype iteration](images/prototype-iteration.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/484e556e-b282-4010-8d46-9294307fc00f" alt="Earlier D4Builds mobile redesign prototype" width="320">
+</p>
 
 ### 3. Refined High-Fidelity Design
 
-The refined version adds more realistic content and visual detail, including equipment artwork, creator imagery, a restrained Kroger advertisement, consistent section capitalization, improved D4Builds branding, and completed build-note content.
+The refined prototype adds realistic equipment artwork, creator imagery, a restrained Kroger advertisement, consistent section capitalization, improved D4Builds branding, and completed build-note content while maintaining the dark visual language of the original site.
 
-![Refined high-fidelity redesign](images/high-fidelity-redesign.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a57c0065-7fe4-4e0d-81ce-f1215678c13c" alt="Refined high-fidelity D4Builds mobile redesign" width="320">
+</p>
 
 ## Key Interface Improvements
 
@@ -74,15 +68,13 @@ The refined version adds more realistic content and visual detail, including equ
 ```text
 .
 ├── README.md
-├── images/
-│   ├── d4builds-visual-foundation.png
-│   ├── prototype-iteration.png
-│   └── high-fidelity-redesign.png
 ├── research/
 │   └── README.md
 └── design-notes/
     └── README.md
 ```
+
+The prototype and research images are embedded directly in this README using GitHub-hosted image assets.
 
 ## Project Status
 
