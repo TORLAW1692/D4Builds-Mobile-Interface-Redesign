@@ -1,3 +1,7 @@
+<img width="390" height="2039" alt="D4Builds_HighFidelity_Prototype" src="https://github.com/user-attachments/assets/a57c0065-7fe4-4e0d-81ce-f1215678c13c" />
+<img width="390" height="2093" alt="D4Builds_LowFidelity_Prototype" src="https://github.com/user-attachments/assets/484e556e-b282-4010-8d46-9294307fc00f" />
+<img width="2200" height="2420" alt="D4Builds_VisualFoundation_Annotated" src="https://github.com/user-attachments/assets/a1c40125-df79-4f50-b058-8b304d57b165" />
+
 # D4Builds Mobile Interface Redesign
 
 A high-fidelity mobile interface redesign project focused on improving usability, clarity, visual hierarchy, and content flow for a Diablo 4 build-planning experience inspired by D4Builds.gg.
