@@ -1,9 +1,14 @@
-[D4Builds_Mobile_UX_Redesign_Presentation.pptx](https://github.com/user-attachments/files/33037762/D4Builds_Mobile_UX_Redesign_Presentation.pptx)
 # D4Builds Mobile Interface Redesign
 
 A high-fidelity mobile interface redesign project focused on improving usability, clarity, visual hierarchy, and content flow for a Diablo 4 build-planning experience inspired by D4Builds.gg.
 
 This project documents the progression from interface analysis to a refined mobile prototype while preserving the original product's dark visual language and build-focused purpose.
+
+## Final Presentation
+
+The completed presentation summarizes the redesign from problem identification through the final high-fidelity direction. It covers the original mobile pain points, the research-to-prototype process, the visual decisions that were preserved from D4Builds, the final interface improvements, and the reasoning behind the selected design direction.
+
+[Download the final presentation](https://github.com/user-attachments/files/33037762/D4Builds_Mobile_UX_Redesign_Presentation.pptx)
 
 ## Project Goals
 
@@ -79,7 +84,7 @@ The prototype and research images are embedded directly in this README using Git
 
 ## Project Status
 
-High-fidelity prototype work is complete for the current course milestone. This repository will remain a record of the research, design decisions, and interface iterations behind the redesign.
+High-fidelity prototype work and the final presentation are complete for the current course milestone. This repository serves as a record of the research, design decisions, interface iterations, and final presentation behind the redesign.
 
 ## Academic Context
 
