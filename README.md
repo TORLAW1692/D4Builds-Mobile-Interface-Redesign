@@ -10,6 +10,12 @@ The completed presentation summarizes the redesign from problem identification t
 
 [Download the final presentation](https://github.com/user-attachments/files/33037762/D4Builds_Mobile_UX_Redesign_Presentation.pptx)
 
+## Video Presentation
+
+Watch the full project presentation on YouTube:
+
+[D4Builds Mobile UX Redesign | High-Fidelity Interface Design Case Study](https://youtu.be/bdvwdFG-ANA)
+
 ## Project Goals
 
 - Improve navigation clarity on mobile
