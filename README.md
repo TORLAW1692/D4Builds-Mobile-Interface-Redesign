@@ -14,7 +14,7 @@ The completed presentation summarizes the redesign from problem identification t
 
 Watch the full project presentation on YouTube:
 
-[D4Builds Mobile UX Redesign | High-Fidelity Interface Design Case Study](https://youtu.be/bdvwdFG-ANA)
+[D4Builds Mobile UX Redesign | High-Fidelity Interface Design Case Study](https://www.youtube.com/watch?v=bdvwdfG-ANA)
 
 ## Project Goals
 
